@@ -1,0 +1,29 @@
+{
+  "source": "qafqazislam-mirror",
+  "city": "Baku",
+  "country": "Azerbaijan",
+  "month": "2026-04",
+  "updatedAt": "2026-04-02T12:00:00Z",
+  "days": [
+    {
+      "day": 1,
+      "imsak": "",
+      "fajr": "",
+      "sunrise": "",
+      "dhuhr": "",
+      "asr": "",
+      "maghrib": "",
+      "isha": ""
+    },
+    {
+      "day": 2,
+      "imsak": "",
+      "fajr": "",
+      "sunrise": "",
+      "dhuhr": "",
+      "asr": "",
+      "maghrib": "",
+      "isha": ""
+    }
+  ]
+}
